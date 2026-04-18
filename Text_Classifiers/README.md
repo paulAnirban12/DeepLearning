@@ -1,6 +1,3 @@
-# DeepLearning
-This repository contains deep learning coursework, including image classification tasks, data preprocessing pipelines, and p>
-
 # GRU and BERT for NLP
 
 This project contains two notebook implementations for natural language processing tasks:
